@@ -1,0 +1,17 @@
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\bin\Debug\netstandard2.0\XamEFCore.deps.json
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\bin\Debug\netstandard2.0\XamEFCore.dll
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\bin\Debug\netstandard2.0\ref\XamEFCore.dll
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\bin\Debug\netstandard2.0\XamEFCore.pdb
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\Views\AlbumesPage.xaml.g.cs
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\Views\AlbumPage.xaml.g.cs
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.AssemblyInfoInputs.cache
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.AssemblyInfo.cs
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamlC.stamp
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.dll
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\ref\XamEFCore.dll
+E:\ProjectVisualStudio\Lab13XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.pdb
